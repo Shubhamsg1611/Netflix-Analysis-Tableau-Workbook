@@ -1,5 +1,5 @@
 # Netflix-Analysis-Tableau-Workbook
-
+![](https://www.datascienceportfol.io/static/profile_pics/pr24_87D7911001F060C7E292.jpg)
 This project focuses on analyzing a dataset containing information about movies and TV shows available on Netflix. The primary goal is to extract insights and trends from the dataset using data visualization techniques. By leveraging Tableau dashboards, the project aims to provide an intuitive understanding of the content library, including its distribution across genres, countries, and ratings, as well as trends in content production over time. The findings can assist in making data-driven decisions for content strategy and audience engagement.
 
 ## Objectives:
